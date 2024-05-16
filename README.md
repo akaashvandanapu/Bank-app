@@ -4,6 +4,10 @@
 
 Bankify is a modern mobile banking application aimed at providing users with convenient access to essential banking services directly from their smartphones. With the increasing reliance on digital platforms for everyday tasks, Bankify seeks to streamline banking operations, enhance user experience, and foster financial inclusion.
 
+## Working App flow
+
+![image](https://github.com/akaashvandanapu/Bank-app/assets/116731095/dba25c2e-3519-47ff-b65d-1fdf5b24f8d1)
+
 ## Functionalities
 
 The Bankify app offers a comprehensive range of functionalities to meet the diverse needs of its users. These functionalities include:
@@ -48,5 +52,14 @@ The Bankify app incorporates various Java libraries and functionalities to enhan
 
 - **Gson:** Gson is a Java library for converting Java objects to JSON and vice versa, utilized in Bankify for serializing/deserializing JSON data. Gson simplifies JSON processing in Java applications by providing APIs for converting Java objects to JSON strings and JSON strings to Java objects. It supports advanced features such as custom serialization/deserialization, JSON schema generation, and type adapters, making it suitable for handling complex data structures and interoperating with external APIs and services.
 
-## Screenshots
+## Working app Screenshots
 
+![image](https://github.com/akaashvandanapu/Bank-app/assets/116731095/4c7995fd-d708-4827-9674-14057b186398)
+
+![image](https://github.com/akaashvandanapu/Bank-app/assets/116731095/f07d12e3-f353-4d67-b92c-a0a2c19cbfe9)
+
+![image](https://github.com/akaashvandanapu/Bank-app/assets/116731095/fa22d84e-662a-4ffc-8286-98bd19f401d3)
+
+![image](https://github.com/akaashvandanapu/Bank-app/assets/116731095/d10b6f52-29fe-4778-ad19-295acd9c4c6a)
+
+![image](https://github.com/akaashvandanapu/Bank-app/assets/116731095/fd2dd961-c949-4815-89ab-10b1c71bb0fa)
